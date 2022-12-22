@@ -14,3 +14,4 @@ https://notetaker0102.herokuapp.com/notes
 
 SCREENSHOT:
 
+<img src="NOTETAKER.PNG">
